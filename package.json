@@ -3,18 +3,18 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "http://othmansmaili.github.io/robofriends",
+  "homepage": "https://othmansmaili.github.io/robofriends/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "tachyons": "^4.12.0"
   },
   "devDependencies": {
