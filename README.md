@@ -1,2 +1,1 @@
-# RoboFriends
-Simple React App
+Simple React App Using card components.
